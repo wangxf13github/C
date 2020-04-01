@@ -36,13 +36,11 @@ Project for learning C language.
 |void	|声明函数无返回值或无参数，声明无类型指针|
 |volatile|说明变量在程序执行中可被隐含地改变|
 |while	|循环语句的循环条件|
-|
 |_Bool|	
 |_Complex|
 |_Imaginary|
 |inline|
 |restrict|
-
 |_Alignas|
 |_Alignof|
 |_Atomic|
