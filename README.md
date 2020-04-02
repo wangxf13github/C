@@ -3,7 +3,7 @@ Project for learning C language.
 ## day01
 ### 关键字
 | 关键字 | 说明 |
-| ------ | :------- |
+| ------ | ------- |
 | auto | 声明自动变量 |
 |break	|跳出当前循环|
 |case	|开关语句分支
